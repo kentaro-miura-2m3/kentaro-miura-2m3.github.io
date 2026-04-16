@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Kentaro Miura"
   },
   "nav": {
     "bio": "About",
@@ -10,21 +10,22 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Kentaro Miura",
+    "nameJp": "三浦　健太郎",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
-    "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "phdJp": "",
+    "position": "",
+    "affiliation": " Department of Engineering, The University of Tokyo",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Electron Microscopy",
+      "Magnetic Materials",
+      "Giant Magnetostrictive Materials"
     ]
   },
   "publications": {
@@ -61,7 +62,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "miura@sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
